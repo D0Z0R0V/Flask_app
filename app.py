@@ -2,6 +2,7 @@ from flask import Flask, render_template, url_for
 import psycopg2
 import redis
 
+
 app = Flask(__name__)
 
 pg = psycopg2.connect(
