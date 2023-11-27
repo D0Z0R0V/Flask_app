@@ -1,2 +1,2 @@
 # Flask_app
-The website is designed for simplified weather viewing.
+Test website. Needed to consolidate skills
